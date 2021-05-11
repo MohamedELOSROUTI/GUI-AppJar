@@ -1,0 +1,19 @@
+Application AMT:
+
+Cette application a pour bute de faciliter l'envoie de messages à des bénévoles lors de la distribution de colis alimentaires.
+
+Il est necessaire de placer le fichier excel (contenant la liste de tout les bénéficiaires et bénévoles) dans le même dossier que le .exe
+
+Le compte sinch de la Main Tendue doit être rechargé pour pouvoir envoyer un message : https://dashboard.sinch.com/dashboard
+Le fichier Sinch.txt contient déjà les codes de connexion pour le compte de l'AMT : l'id et le token (A garder privé !).
+Une connexion internet est également nécessaire !!
+
+Avant d'envoyer un message et de cocher la liste de bénéficiaires, il est important de bien définir les coordonnées de la personne 
+de référence (personne qui envoie le message : numéro, adresse de rdz pour chercher les colis et date de rendez-vous).
+
+Une fois que le message est envoyé, une trache du message est sauvegardé dans le dossier Historique des messages : le nom de chaque fichier 
+correspond à la date et heure d'envoie du message !
+
+Pour toutes questions concernant l'application, n'hésitez pas à me contacter par mail : el.osrouti_mohamed@hotmail.com
+
+Que Dieu vous bénisse !
