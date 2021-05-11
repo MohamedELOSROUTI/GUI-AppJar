@@ -6,7 +6,7 @@ The objective of this project is to build a GUI that makes it easier to send sms
 For its internal activities, the AMT has to send monthly messages to its volunteers to inform them about the location of the beneficiaries and personal information (phone number, …). This way, each volunteer is able to deliver them food packages. The AMT has a set of data regarding the position of each beneficiary and its personal information saved in an excel file. The AMT desires thus to build a GUI that can help the sender to assign each volunteer to a group of beneficiaries.
 
 ## Goal
-Make easy the sending of messages thanks to the GUI app offered to the used.
+Make easy the sending of messages thanks to the GUI app offered to the user.
 
 ## Project
 Build a GUI in python using AppJar library : http://appjar.info/
