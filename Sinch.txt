@@ -1,3 +1,2 @@
-Main tendue
-service_plan_id='38a9275fc9a54b88a6806097db763f87'
-token='aae4546c6d5c4f02b39576c5642070ff'
+service_plan_id=''
+token=''
