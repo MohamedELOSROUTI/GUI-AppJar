@@ -13,7 +13,3 @@ de référence (personne qui envoie le message : numéro, adresse de rdz pour ch
 
 Une fois que le message est envoyé, une trache du message est sauvegardé dans le dossier Historique des messages : le nom de chaque fichier 
 correspond à la date et heure d'envoie du message !
-
-Pour toutes questions concernant l'application, n'hésitez pas à me contacter par mail : el.osrouti_mohamed@hotmail.com
-
-Que Dieu vous bénisse !
