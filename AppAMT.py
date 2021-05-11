@@ -45,13 +45,17 @@ def readAPI():
                     first_index = line.find("'")+1
                     last_index = line[first_index+1:].find("'")+first_index
                     service_plan_id = line[first_index:last_index]
-                    print(service_plan_id)
+                    if service_plan_id == '':
+                        app.infoBox("Erreur", "Veuillez mentionner le service_plan_id dans le Sinch.txt et enregistrez !", parent=None)
 
+                    print(service_plan_id)
                 elif 'token' in line:
                     l = len(line)
                     first_index = line.find("'")+1
                     last_index = line[first_index+1:].find("'")+first_index
                     token = line[first_index:last_index]
+                    if token == '':
+                        app.infoBox("Erreur", "Veuillez mentionner le token dans le Sinch.txt et enregistrez !", parent=None)
                     print(token)
                 else:
                     pass
