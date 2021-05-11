@@ -1,5 +1,5 @@
 # GUI-AppJar
-The objective of this project is to build a GUI that makes it easier to send sms thanks to Sinch
+The objective of this project is to build a GUI that makes it easier to send sms thanks to Sinch : https://www.sinch.com/
 
 ## Context
 
@@ -9,7 +9,7 @@ For its internal activities, the AMT has to send monthly messages to its volunte
 Make easy the sending of messages thanks to the GUI app offered to the used.
 
 ## Project
-Build a GUI in python using AppJar library http://appjar.info/
+Build a GUI in python using AppJar library : http://appjar.info/
 1. The GUI should take as input:
     a. Phone number of the sender (to contact him if a problem occurs)
     b. Meeting adress (place of the food packages)
